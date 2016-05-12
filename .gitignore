@@ -1,0 +1,28 @@
+# Code #
+*.pyc*
+*.py~
+
+# Figures #
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.pdf
+
+# Files #
+*.txt
+*.mp4
+*.qcp
+
+# App metadata #
+.DS_Store
+.project
+.pydevproject
+.dropbox
+.share_info
+
+# folders
+.settings/
+data/
+
